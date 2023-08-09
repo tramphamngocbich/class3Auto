@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_LoginAdminShopify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3997040e-c53d-425f-b93b-ae3a77da0d19</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ffa636c8-3fd4-4554-914c-26dd6068ab04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93ae115c-65b1-4dd2-a8d3-09b26bb0bf44</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>baa6530c-63ab-4da3-88ce-d14e3c75daa2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55d0c96c-f50e-4e9d-85ff-90e591eb3fca</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f767b33-593b-4975-956b-8318bd644a6c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c406a05d-afe2-474c-92d3-3090f19cf3ba</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1f8e702-6554-49a4-a335-5fd67c5c5c01</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Login Admin Shopify/input_account_email')</defaultValue>
+      <description></description>
+      <id>ffa636c8-3fd4-4554-914c-26dd6068ab04</id>
+      <masked>false</masked>
+      <name>input_account_email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Login Admin Shopify/btn_continue_email')</defaultValue>
+      <description></description>
+      <id>93ae115c-65b1-4dd2-a8d3-09b26bb0bf44</id>
+      <masked>false</masked>
+      <name>btn_continue_email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Login Admin Shopify/input_account_password')</defaultValue>
+      <description></description>
+      <id>baa6530c-63ab-4da3-88ce-d14e3c75daa2</id>
+      <masked>false</masked>
+      <name>input_account_password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Login Admin Shopify/btn_account_login')</defaultValue>
+      <description></description>
+      <id>55d0c96c-f50e-4e9d-85ff-90e591eb3fca</id>
+      <masked>false</masked>
+      <name>btn_account_login</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Login Admin Shopify/btn_login_account_fb')</defaultValue>
+      <description></description>
+      <id>3f767b33-593b-4975-956b-8318bd644a6c</id>
+      <masked>false</masked>
+      <name>btn_login_account_fb</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Login Admin Shopify/btn_login_account_gg')</defaultValue>
+      <description></description>
+      <id>c406a05d-afe2-474c-92d3-3090f19cf3ba</id>
+      <masked>false</masked>
+      <name>btn_login_account_gg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Login Admin Shopify/btn_login_account_apple')</defaultValue>
+      <description></description>
+      <id>f1f8e702-6554-49a4-a335-5fd67c5c5c01</id>
+      <masked>false</masked>
+      <name>btn_login_account_apple</name>
+   </variable>
+</TestCaseEntity>

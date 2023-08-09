@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Shopify</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://storetest0707.myshopify.com/admin'</initValue>
+      <name>url_login_store_test</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://accounts.shopify.com/login'</initValue>
+      <name>url_login_admin_shopify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://partners.shopify.com/1949917/stores/new?store_type=client_store'</initValue>
+      <name>url_partner_login</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://alireviews-fe.onecommerce.io/install'</initValue>
+      <name>url_app_alireview</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

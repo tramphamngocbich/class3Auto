@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_InstallAppAliReview</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>853e1ef8-d4f3-4b36-a569-efeafc94dc85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ffe20a2-83f6-40f5-a7cd-21ba5c89f89e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>093b6a20-1616-40fc-b717-28765cccf1b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bbbfe24-a0b3-4d3b-afd7-d2522e22f92b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('InstallAppAliReview/input_store_name')</defaultValue>
+      <description></description>
+      <id>6ffe20a2-83f6-40f5-a7cd-21ba5c89f89e</id>
+      <masked>false</masked>
+      <name>input_store_name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('InstallAppAliReview/btn_login_store_name')</defaultValue>
+      <description></description>
+      <id>093b6a20-1616-40fc-b717-28765cccf1b2</id>
+      <masked>false</masked>
+      <name>btn_login_store_name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('InstallAppAliReview/btn_install_app')</defaultValue>
+      <description></description>
+      <id>8bbbfe24-a0b3-4d3b-afd7-d2522e22f92b</id>
+      <masked>false</masked>
+      <name>btn_install_app</name>
+   </variable>
+</TestCaseEntity>
