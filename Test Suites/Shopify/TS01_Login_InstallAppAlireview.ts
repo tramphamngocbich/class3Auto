@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Shopify/TS03_InstallAppAliReview</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Shopify/TS03_LoginCreatStoreInstallAppAliReview</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

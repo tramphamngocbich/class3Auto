@@ -113,6 +113,12 @@
       <value></value>
       <variableId>453cf9f6-8367-40fd-aa09-3d20c8ed3b40</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68e8f127-cf47-4d75-b8c0-2a03f4f69514</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>findTestObject('Login Admin Shopify/btn_login_account_gg')</defaultValue>
       <description></description>
@@ -238,5 +244,12 @@
       <id>453cf9f6-8367-40fd-aa09-3d20c8ed3b40</id>
       <masked>false</masked>
       <name>img_logo_shopify</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Create Store Test Shopify/div_select_account')</defaultValue>
+      <description></description>
+      <id>68e8f127-cf47-4d75-b8c0-2a03f4f69514</id>
+      <masked>false</masked>
+      <name>div_select_account</name>
    </variable>
 </TestCaseEntity>

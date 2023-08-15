@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_logo_shopify</name>
+   <name>div_select_account</name>
    <tag></tag>
-   <elementGuidId>5da43341-6259-4109-bcc0-82b49d529d4e</elementGuidId>
+   <elementGuidId>3f7f8990-6a32-43af-aece-5d98d47780ae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class='ui-navbar__logo']/child::img[@alt=&quot;Shopify&quot;]</value>
+         <value>//div[contains(text(),'trampnb@fireapps.vn')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

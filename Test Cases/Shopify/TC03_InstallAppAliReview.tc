@@ -23,6 +23,12 @@
       <value></value>
       <variableId>8bbbfe24-a0b3-4d3b-afd7-d2522e22f92b</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f51592f-0101-4079-abf2-415fcad0a621</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>findTestObject('InstallAppAliReview/input_store_name')</defaultValue>
       <description></description>
@@ -43,5 +49,12 @@
       <id>8bbbfe24-a0b3-4d3b-afd7-d2522e22f92b</id>
       <masked>false</masked>
       <name>btn_install_app</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Create Store Test Shopify/div_select_account')</defaultValue>
+      <description></description>
+      <id>7f51592f-0101-4079-abf2-415fcad0a621</id>
+      <masked>false</masked>
+      <name>div_select_account</name>
    </variable>
 </TestCaseEntity>

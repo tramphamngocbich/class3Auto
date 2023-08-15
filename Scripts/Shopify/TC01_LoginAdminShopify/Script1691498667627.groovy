@@ -19,16 +19,27 @@ import org.openqa.selenium.Keys as Keys
 
 //Login account with email
 def email = 'trampnb@fireapps.vn'
+
 def password = 'RigbBhfdqOBGNlJIWM1ClA=='
 
 def LoginAdminShopify(email,password) {
+	
 	WebUI.setText(input_account_email, email)
+	
 	WebUI.click(btn_continue_email)
+	
 	WebUI.setEncryptedText(input_account_password, password)
+	
 	WebUI.click(btn_account_login)
 }
-//WebUI.openBrowser(GlobalVariable.url_login_admin_shopify)
+WebUI.openBrowser(GlobalVariable.url_login_admin_shopify)
+
 LoginAdminShopify(email,password)
+
+
+
+
+
 
 /*WebUI.openBrowser("https://storetest0707.myshopify.com/admin")
 WebUI.setText(findTestObject('Object Repository/Login Admin Shopify/input_account_email'), 'trampnb@fireapps.vn')
