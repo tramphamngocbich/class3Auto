@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>ec00da7a-3a28-40c6-97d7-fb42b1d3d7f4</testSuiteGuid>
    <testCaseLink>
-      <guid>efec912e-e782-4cb6-a498-212eee3c2a7a</guid>
+      <guid>c0950608-517b-4f36-8be8-c14a1b2e004b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Shopify/TC03_InstallAppAliReview</testCaseId>
